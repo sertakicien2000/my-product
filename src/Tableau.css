@@ -10,11 +10,11 @@ table{
 }
 th{
     font-weight: bolder;
-    border: 1px solid rgb(21, 64, 252) !important;
+    border: 1px solid rgb(21, 252, 221) !important;
 }
 td{
     background-color: white !important;
-    border: 1px solid rgb(21, 64, 252) !important;
+    border: 1px solid rgb(21, 160, 252) !important;
 }
 
 #suppr{
